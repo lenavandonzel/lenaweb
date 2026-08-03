@@ -104,8 +104,8 @@ audio::-webkit-media-controls-time-remaining-display {
     padding: 0px;
     margin: 0px;
     border-style: solid;
-    border-color: #F4E4C8;
-    border-width: 5px;
+    border-color: #f7b55f;
+    border-width: 2px;
 }
 .kokennav a{
     color: #F4E4C8;
