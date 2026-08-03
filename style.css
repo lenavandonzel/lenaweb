@@ -89,3 +89,33 @@ audio::-webkit-media-controls-time-remaining-display {
 #blokje{
     float: left;
 }
+
+.kokennav{    
+  width: 20%;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.kokennav ul{
+    list-style: none;
+    background-color: #574b93;
+    padding: 0px;
+    margin: 0px;
+    border-style: solid;
+    border-color: #F4E4C8;
+    border-width: 5px;
+}
+.kokennav a{
+    color: #F4E4C8;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+.kokennav a:hover{
+    background-color: #241f3d;
+}
+.kokennav li.active a {
+    background-color: #A45F6F;
+}
