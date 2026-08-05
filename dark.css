@@ -115,4 +115,7 @@ audio::-webkit-media-controls-time-remaining-display {
     color: #00ffff;
     text-decoration: none;
 }
-
+a{
+    color: #000000;
+    text-decoration: none;
+}
