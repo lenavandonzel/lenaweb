@@ -132,6 +132,10 @@ audio::-webkit-media-controls-time-remaining-display {
     text-decoration: none;
     font-size: 30px;
 }
-a{
-    color: #fb8b24;
+.smalllink ul{
+    list-style: none;}
+.smalllink a{
+    color: #fefae0
     text-decoration: none;
+@media screen and (max-width:600px){
+    nav.navbar, section, artcle{width: 100%}}
