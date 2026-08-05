@@ -132,6 +132,8 @@ audio::-webkit-media-controls-time-remaining-display {
     text-decoration: none;
     font-size: 30px;
 }
-. smalllink a{
+.smalllink ul{
+    list-style: none;}
+.smalllink a{
     color: #5500ff;
     text-decoration: none;
