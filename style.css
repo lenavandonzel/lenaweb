@@ -138,4 +138,4 @@ audio::-webkit-media-controls-time-remaining-display {
     color: #fefae0
     text-decoration: none;
 @media screen and (max-width:600px){
-    nav.navbar, section, artcle{width: 100%}}
+    nav.navbar, section, article{width: 100%}}
