@@ -1,10 +1,6 @@
 *{
     box-sizing: border-box;
 }
-a{
-    color: #5500ff;
-    text-decoration: none;
-}
 body{
     background-color: #000000;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -124,4 +120,10 @@ audio::-webkit-media-controls-time-remaining-display {
     color: #00ffff;
     text-decoration: none;
 }
-
+.linknav ul{
+    list-style: none;}
+.linknav a{
+    color: #5500ff;
+    text-decoration: none;
+    font-size: 30px;
+}
