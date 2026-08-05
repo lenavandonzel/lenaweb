@@ -32,7 +32,7 @@ div {
     border-width: 5px;
 }
 .navbar a{
-    color: #000000;
+    color: #ooffff;
     text-decoration: none;
     padding: 10px;
     display: block;
@@ -50,18 +50,18 @@ section{
     border-width: 5px;
     display: block;
     padding: 15px;
-    border-color: #ffff00;
-    background-color: #4D868D;
-    color: #F4E4C8;
+    border-color: #aaff00;
+    background-color: #000000;
+    color: #ff00aa;
 }
 article{
     width: 20%;
     float: right;
     padding: 15px;
-    background-color: #574b93;
-    color: #F4E4C8;
+    background-color: #aaff00;
+    color: #000000;
     border-style: solid;
-    border-color: #F4E4C8;
+    border-color: #000000;
     border-width: 5px;
 }
    
@@ -104,7 +104,7 @@ audio::-webkit-media-controls-time-remaining-display {
     margin: 0px;
 }
 .kokennav a{
-    color: #241f3d;
+    color: #00ffff;
     text-decoration: none;
     padding: 10px;
     display: block;
@@ -112,7 +112,7 @@ audio::-webkit-media-controls-time-remaining-display {
 .koken ul{
     list-style: none;}
 .koken a{
-    color: #241f3d;
+    color: #00ffff;
     text-decoration: none;
 }
 
