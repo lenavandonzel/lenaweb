@@ -130,8 +130,9 @@ audio::-webkit-media-controls-time-remaining-display {
 .linknav a{
     color: #fb8b24;
     text-decoration: none;
-    font-size: 30px;
-}
-. smalllink a{
+    font-size: 30px;}
+.smalllink ul{
+    list-style: none;}
+.smalllink a{
     color: #fb8b24;
     text-decoration: none;
