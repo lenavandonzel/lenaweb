@@ -15,6 +15,11 @@ h2{
     font-size: 30px;
     text-align: center;
 }
+h3{
+    color: #5500ff;
+    font-size: 20px;
+    text-align: left;
+}
 div {
     display: flex;
   justify-content: flex-end;
