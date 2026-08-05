@@ -1,0 +1,134 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #fefae0;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    color: #9a031e;
+    font-size: 50px;
+    text-align: center;
+}
+h2{
+    color: #e36414;
+    font-size: 30px;
+    text-align: center;
+}
+h3{
+    color: #fb8b24;
+    font-size: 20px;
+    text-align: left;
+}
+div {
+    display: flex;
+  justify-content: flex-end;
+}
+.navbar{    
+  width: 20%;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.navbar ul{
+    list-style: none;
+    background-color: #9a031e;
+    padding: 0px;
+    margin: 0px;
+    border-style: solid;
+    border-color: #Fefae0;
+    border-width: 5px;
+}
+.navbar a{
+    color: #Fefae0;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+.navbar a:hover{
+    background-color: #590313;
+}
+.navbar li.active a {
+    background-color: #e36414;
+}
+section{
+    width: 60%;
+    float: left;
+    border-style: solid;
+    border-width: 5px;
+    display: block;
+    padding: 15px;
+    border-color: #e36414;
+    background-color: #5f0f40;
+    color: #Fefae0;
+}
+article{
+    width: 20%;
+    float: right;
+    padding: 15px;
+    background-color: #f04c5c;
+    color: #Fefae0;
+    border-style: solid;
+    border-color: #Fefae0;
+    border-width: 5px;
+}
+   
+/* Specifies the size of the audio container */
+audio {
+  width: 115px;
+  height: 25px;
+}
+audio::-webkit-media-controls-panel {
+  -webkit-justify-content: center;
+  height: 25px;
+}
+/* Removes the timeline */
+audio::-webkit-media-controls-timeline {
+  display: none !important;
+}
+/* Removes the time stamp */
+audio::-webkit-media-controls-current-time-display {
+  display: none;
+}
+audio::-webkit-media-controls-time-remaining-display {
+  display: none;
+}
+
+#blokje{
+    float: left;
+}
+
+.kokennav{    
+  width: 20%;
+  float: left;
+  display: inline;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 10px;
+}
+.kokennav ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.kokennav a{
+    color: #fb8b24;
+    text-decoration: none;
+    padding: 10px;
+    display: block;
+}
+.koken ul{
+    list-style: none;}
+.koken a{
+    color: #fb8b24;
+    text-decoration: none;
+}
+.linknav ul{
+    list-style: none;}
+.linknav a{
+    color: #fb8b24;
+    text-decoration: none;
+    font-size: 30px;
+}
