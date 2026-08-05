@@ -1,6 +1,10 @@
 *{
     box-sizing: border-box;
 }
+a{
+    color: #5500ff;
+    text-decoration: none;
+}
 body{
     background-color: #000000;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -29,7 +33,7 @@ div {
 }
 .navbar ul{
     list-style: none;
-    background-color: #ooffff;
+    background-color: #00ffff;
     padding: 0px;
     margin: 0px;
     border-style: solid;
@@ -37,7 +41,7 @@ div {
     border-width: 5px;
 }
 .navbar a{
-    color: #ooffff;
+    color: #00ffff;
     text-decoration: none;
     padding: 10px;
     display: block;
@@ -120,7 +124,4 @@ audio::-webkit-media-controls-time-remaining-display {
     color: #00ffff;
     text-decoration: none;
 }
-a{
-    color: #5500ff;
-    text-decoration: none;
-}
+
