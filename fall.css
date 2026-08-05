@@ -138,3 +138,22 @@ audio::-webkit-media-controls-time-remaining-display {
     text-decoration: none;}
 @media screen and (max-width:600px){
     nav.navbar, section, article{width: 100%}}
+.gallery{
+    display: inline-block;
+    border: 2px solid #fefae0;
+    margin: 5px;
+    width: 150px;
+}
+.gallery .description{
+    padding: 10px;
+    text-align: center;
+    color: #fefae0;
+}
+.gallery:hover{
+    border: 2px solid #fb8b24;
+    color: #fb8b24;
+}
+.gallery img{
+    width:100%;
+    height: auto;
+}
