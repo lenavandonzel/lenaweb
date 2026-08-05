@@ -134,5 +134,5 @@ audio::-webkit-media-controls-time-remaining-display {
 .smalllink ul{
     list-style: none;}
 .smalllink a{
-    color: #590313;
+    color: #590313 !important;
     text-decoration: none;}
