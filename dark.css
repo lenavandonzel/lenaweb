@@ -12,12 +12,12 @@ h1{
 }
 h2{
     color: #ffff00;
-    font-size: 500%;
+    font-size: 300%;
     text-align: center;
 }
 h3{
     color: #5500ff;
-    font-size: 300%;
+    font-size: 200%;
     text-align: left;
 }
 div {
@@ -130,7 +130,7 @@ audio::-webkit-media-controls-time-remaining-display {
 .linknav a{
     color: #5500ff;
     text-decoration: none;
-    font-size: 200%
+    font-size: 125%
 }
 .smalllink ul{
     list-style: none;}
