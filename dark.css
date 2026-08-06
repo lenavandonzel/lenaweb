@@ -11,6 +11,7 @@
 body{
     background-color: #000000;
     font-family: "aurora-24", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size:90%;
 }
 h1{
     color: #ff00aa;
