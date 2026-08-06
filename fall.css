@@ -1,9 +1,16 @@
 *{
     box-sizing: border-box;
 }
+@font-face { 
+	font-family: "kingdom"; 
+	src: url("./fonts/kingdom.ttf") format("truetype"); 
+	font-weight: normal;
+	font-style: normal; 
+	font-display: swap; 
+}
 body{
     background-color: #fefae0;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'kingdom', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: #9a031e;
