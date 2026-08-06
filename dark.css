@@ -10,13 +10,12 @@
 }
 body{
     background-color: #000000;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "Electric", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: #ff00aa;
     font-size: 400%;
     text-align: center;
-	font-family: "Electric", serif;
 }
 h2{
     color: #ffff00;
