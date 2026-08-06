@@ -3,7 +3,7 @@
 }
 @font-face { 
 	font-family: "Electric"; 
-	src: url("./fonts/Electro Garden.ttf") format("truetype"); 
+	src: url("/fonts/Electro Garden.ttf") format("truetype"); 
 	font-weight: normal;
 	font-style: normal; 
 	font-display: swap; 
