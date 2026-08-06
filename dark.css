@@ -2,15 +2,15 @@
     box-sizing: border-box;
 }
 @font-face { 
-	font-family: "Electric"; 
-	src: url("/fonts/Electro Garden.ttf") format("truetype"); 
+	font-family: "aurora-24"; 
+	src: url("/fonts/aurora-24.ttf") format("truetype"); 
 	font-weight: normal;
 	font-style: normal; 
 	font-display: swap; 
 }
 body{
     background-color: #000000;
-    font-family: "Electric", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: "aurora-24", 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: #ff00aa;
