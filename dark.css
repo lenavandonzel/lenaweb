@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 @font-face { 
-	font-family: "Example Font Name"; 
-	src: url("./fonts/examplefontname.ttf") format("truetype"); 
+	font-family: "Electric"; 
+	src: url("./fonts/Electro Garden.ttf") format("truetype"); 
 	font-weight: normal;
 	font-style: normal; 
 	font-display: swap; 
@@ -16,6 +16,7 @@ h1{
     color: #ff00aa;
     font-size: 400%;
     text-align: center;
+	font-family: "Electric", serif;
 }
 h2{
     color: #ffff00;
