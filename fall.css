@@ -2,8 +2,8 @@
     box-sizing: border-box;
 }
 @font-face { 
-	font-family: "OmbreNouveauDEMO-Regular"; 
-	src: url("./fonts/OmbreNouveauDEMO-Regular.ttf") format("truetype"); 
+	font-family: "MindMeld-One"; 
+	src: url("./fonts/MindMeld-One.ttf") format("truetype"); 
 	font-weight: normal;
 	font-style: normal; 
 	font-display: swap; 
@@ -11,7 +11,7 @@
 }
 body{
     background-color: #fefae0;
-    font-family: 'OmbreNouveauDEMO-Regular', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'MindMeld-One', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: #9a031e;
