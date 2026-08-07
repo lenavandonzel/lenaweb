@@ -2,15 +2,15 @@
     box-sizing: border-box;
 }
 @font-face { 
-	font-family: "reindeer-typewriter"; 
-	src: url("./fonts/reindeer-typewriter.ttf") format("truetype"); 
+	font-family: "The Lady in the Boulevard"; 
+	src: url("./fonts/The Lady in the Boulevard.ttf") format("truetype"); 
 	font-weight: normal;
 	font-style: normal; 
 	font-display: swap; 
 }
 body{
     background-color: #fefae0;
-    font-family: 'reindeer-typewriter', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'The Lady in the Boulevard', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h1{
     color: #9a031e;
