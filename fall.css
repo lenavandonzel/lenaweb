@@ -155,6 +155,7 @@ audio::-webkit-media-controls-time-remaining-display {
     padding: 10px;
     text-align: center;
     color: #fefae0;
+	font-size: 70%;
 }
 .gallery:hover{
     border: 2px solid #fb8b24;
