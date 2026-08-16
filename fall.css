@@ -149,7 +149,7 @@ audio::-webkit-media-controls-time-remaining-display {
     display: inline-block;
     border: 2px solid #fefae0;
     margin: 5px;
-    width: 150px;
+    width: 180px;
 }
 .gallery .description{
     padding: 10px;
